@@ -65,11 +65,14 @@ This GitHub Pages site is usable as a public startup website for an MVP applicat
 
 Business email:
 User-provided email: `sj2025506282@gmail.com`
+Form result: Google rejects Gmail with "Personal email accounts are not eligible for the program."
+Temporary fallback tested in form: `2025506282@qq.com` was not immediately rejected by front-end validation, but it is still weaker than a domain-matched business email.
 Best: an email at the same domain as the website.
 Fallback: Gmail may work for informal early-stage applications, but Google FAQ says the business email should match the startup public website domain.
 
 Business phone:
 User-provided phone: `+86 13020271731`
+Form note: set Calling Code to China (+86); Singapore (+65) makes the number invalid.
 
 Industry:
 Media / Entertainment / Creator Tools / AI
