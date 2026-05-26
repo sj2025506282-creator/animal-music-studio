@@ -58,7 +58,10 @@ Company/startup name:
 Animal Music Studio
 
 Website:
-Needs a public landing page before submission. A simple page is enough, but it should explain product, target users, founder/contact, and why AI/cloud is used. User does not currently have a domain.
+Published temporary landing page:
+`https://sj2025506282-creator.github.io/animal-music-studio/`
+
+This GitHub Pages site is usable as a public startup website for an MVP application. A custom domain and matching business email would be stronger, but the current Google form blocks personal Gmail before the website step.
 
 Business email:
 User-provided email: `sj2025506282@gmail.com`
