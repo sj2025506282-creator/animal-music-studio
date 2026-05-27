@@ -63,6 +63,14 @@ Published temporary landing page:
 
 This GitHub Pages site is usable as a public startup website for an MVP application. A custom domain and matching business email would be stronger, but the current Google form blocks personal Gmail before the website step.
 
+Free developer subdomain request:
+`animalmusicstudio.is-a.dev`
+
+PR:
+`https://github.com/is-a-dev/register/pull/39390`
+
+Status as of 2026-05-27 morning: CI checks passed; waiting for is-a.dev maintainer review/merge.
+
 Business email:
 User-provided email: `sj2025506282@gmail.com`
 Form result: Google rejects Gmail with "Personal email accounts are not eligible for the program."
